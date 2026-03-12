@@ -1,2 +1,2 @@
 # Data-Analysis-Projects
-Data analysis projects applied to finance, research and banking
+Data analysis projects applied to **finance**, **research** and **banking**.
