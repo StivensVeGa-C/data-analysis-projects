@@ -45,6 +45,7 @@ The dataset was sourced from Kaggle and includes:
 * CSV data file
 
 ## Key Insights
+*(Check the Analysis folder)*
 <p>
   <img src="Images/cannon.gif" width="150" align="right">
 The analysis of sales data reveals that Technology is the top-selling category, generating $836,154 in total sales, and it is also the most profitable, with profits of around $145,454. Within Technology, Phones lead the sales with $330,000.
