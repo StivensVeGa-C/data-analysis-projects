@@ -56,6 +56,10 @@ The Canon imageCLASS 2200 Advanced Copier is the top-selling product ($61,600), 
 
 Finally, the analysis shows a weak negative correlation (-0.2195) between discounts and profit, indicating that offering higher discounts slightly reduces profitability.
 </p>
+<p align="center">
+  <img src="Images/discount_profit.png" width="600">
+</p>
+
 
 #### Author
 Stivens Vega Garcia
